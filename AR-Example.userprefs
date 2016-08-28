@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CloudRecoEventHandler.cs">
+    <Files>
+      <File FileName="Assets/AProject/Scripts/JsonContent.cs" Line="14" Column="53" />
+      <File FileName="Assets/AProject/Scripts/TestJsonContent.cs" Line="15" Column="1" />
+      <File FileName="Assets/AProject/Scripts/Content.cs" Line="47" Column="2" />
+      <File FileName="Assets/Scripts/CloudRecoEventHandler.cs" Line="163" Column="28" />
+      <File FileName="Assets/AProject/Scripts/CustomTracker.cs" Line="13" Column="17" />
+      <File FileName="Assets/AProject/Scripts/BundleLoad.cs" Line="44" Column="1" />
+      <File FileName="Assets/AProject/Editor/BundleBuilder.cs" Line="10" Column="48" />
+      <File FileName="Assets/AProject/Scripts/Autofocus.cs" Line="58" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
